@@ -19,3 +19,7 @@ def count(request):
 
 def about(request):
     return render(request,'about.html',)
+
+
+
+#hey you are great coder nice work keep it up
